@@ -14,6 +14,8 @@ avgFilter	KEYWORD1
 
 initialize	KEYWORD2
 value	KEYWORD2
+currentValue	KEYWORD2
+samples	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
